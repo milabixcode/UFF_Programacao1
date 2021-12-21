@@ -1,4 +1,5 @@
-"""def criaVetor(fill, n):
+"""Prova Kowada
+def criaVetor(fill, n):
     return [fill] * n
 
 def criaMatrix(fill, m, n):

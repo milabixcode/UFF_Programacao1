@@ -1,3 +1,5 @@
+"""Prova Kowada"""
+
 casosDeTeste = int(input())
 
 for i in range(casosDeTeste):

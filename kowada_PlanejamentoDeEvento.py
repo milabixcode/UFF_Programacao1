@@ -1,3 +1,5 @@
+"""Prova Kowada"""
+
 numeroParticipantes, orcamento, numeroHoteis, numeroSemanas = map(int, input().split()) 
 
 custoMinimo = None
