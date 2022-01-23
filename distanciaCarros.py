@@ -1,1 +1,0 @@
-km = int(input())
