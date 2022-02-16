@@ -13,6 +13,7 @@ def getTamanhoMaiorSequencia(vetor):
     for i in range (len(vetor) - 1):
         if vetor[i] > vetor[i+1]:
             tamanhoSequenciaControle += 1
+            maiorSequenciaDeTodas = tamanhoSequenciaControle
         else:
             if tamanhoSequenciaControle > maiorSequenciaDeTodas:
                 maiorSequenciaDeTodas = tamanhoSequenciaControle

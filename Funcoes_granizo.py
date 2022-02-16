@@ -1,6 +1,6 @@
 def getMaiorNumeroDaSequencia(h): 
     hNMenos1 = h
-    maiorNumeroDaSequencia = 0
+    maiorNumeroDaSequencia = hNMenos1
     while(hNMenos1 != 1):
         if hNMenos1 % 2 == 0:
             hNMenos1 = int(hNMenos1/2)
